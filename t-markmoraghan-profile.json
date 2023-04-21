@@ -1,0 +1,20 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-21T05:25:19Z",
+  "IdClaims": [
+    {
+      "Claim": "t:markmoraghan"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "61899a5c2b6e0a31e396231e",
+    "Timestamp": "2023-04-21T05:26:38Z",
+    "Signature": "583ddca4a72b7b08cd71e4fa07cc50047e1e46308c8e1ec7c1e41064e6144d471dca9d2964d424fa1b673b77d36d0c7274a2a0849979ba4faf7c88334fd03ba270de9ce9711bd3622498d64985329d7b88b8705c20c4bb3725b663911d046c4bdd43023c9c59151c931cba26341619ae39ea8241b0e7d28dce958bf1130708a1ededad9947e06b39b59c09abcdae2c03e745fb9bb080086032195aab128c8971e94e2d0e2b07f3ad044f7ff9e0b345a06bfa53fdced415e828bc3cf3e1735d5d0741b89ddc9f81233dfde3c49195c862622eb4eceb4b079d49b357292bc2193707d48640775ae98b113ba51663b8a6c76e6b527adcd1f5aca1e37c36621bac86"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "12f346916cddfe57a5cc45c319e618b69fdad2b780157d10cc5a238c32b59b70",
+  "ContentToHash": "v1|t:markmoraghan|2023-04-21T05:25:19Z"
+}
